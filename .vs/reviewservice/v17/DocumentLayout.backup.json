@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\reviewservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\reviewservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|solutionrelative:reviewservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\reviewservice\\migrations\\20241028203053_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|solutionrelative:reviewservice\\migrations\\20241028203053_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\reviewservice\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|solutionrelative:reviewservice\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\queries\\get\\getreviewbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\queries\\get\\getreviewbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\commands\\create\\createreviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\commands\\create\\createreviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\commands\\create\\createreviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\commands\\create\\createreviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9074D957-7A58-45A9-A773-42928CD043E7}|infrastructure\\infrastructure.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\infrastructure\\persistence\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9074D957-7A58-45A9-A773-42928CD043E7}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\queries\\get\\getreviewbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\queries\\get\\getreviewbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0EB853-EED6-42F1-9CAA-037409F45D98}|domain\\domain.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0EB853-EED6-42F1-9CAA-037409F45D98}|domain\\domain.csproj|solutionrelative:domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\queries\\list\\getallreviewshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\queries\\list\\getallreviewshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\queries\\list\\getallreviewsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\queries\\list\\getallreviewsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\dtos\\validators\\reviewdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\dtos\\validators\\reviewdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\commands\\delete\\deletereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\commands\\delete\\deletereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\commands\\delete\\deletereviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\commands\\delete\\deletereviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\commands\\update\\updatereviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\commands\\update\\updatereviewhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\reviews\\commands\\update\\updatereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\reviews\\commands\\update\\updatereviewcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\reviewservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|solutionrelative:reviewservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2A01B7-8B78-49F1-9146-CC671965B300}|application\\application.csproj|solutionrelative:application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0EB853-EED6-42F1-9CAA-037409F45D98}|domain\\domain.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\domain\\dogmatemarketplacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0EB853-EED6-42F1-9CAA-037409F45D98}|domain\\domain.csproj|solutionrelative:domain\\dogmatemarketplacecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9074D957-7A58-45A9-A773-42928CD043E7}|infrastructure\\infrastructure.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9074D957-7A58-45A9-A773-42928CD043E7}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9074D957-7A58-45A9-A773-42928CD043E7}|infrastructure\\infrastructure.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\infrastructure\\persistence\\seeding\\reviewseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9074D957-7A58-45A9-A773-42928CD043E7}|infrastructure\\infrastructure.csproj|solutionrelative:infrastructure\\persistence\\seeding\\reviewseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|c:\\users\\admin\\source\\repos\\reviewservice\\reviewservice\\reviewservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{60401C06-1E20-4AA0-9032-676EFF69DD66}|reviewservice\\reviewservice.csproj|solutionrelative:reviewservice\\reviewservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241028203053_first.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\Migrations\\20241028203053_first.cs",
+              "RelativeDocumentMoniker": "reviewservice\\Migrations\\20241028203053_first.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\Migrations\\20241028203053_first.cs",
+              "RelativeToolTip": "reviewservice\\Migrations\\20241028203053_first.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:30:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\Program.cs",
+              "RelativeDocumentMoniker": "reviewservice\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\Program.cs",
+              "RelativeToolTip": "reviewservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:57:39.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateReviewCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Create\\CreateReviewCommand.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Commands\\Create\\CreateReviewCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Create\\CreateReviewCommand.cs",
+              "RelativeToolTip": "application\\Reviews\\Commands\\Create\\CreateReviewCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:26:42.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateReviewHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Create\\CreateReviewHandler.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Commands\\Create\\CreateReviewHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Create\\CreateReviewHandler.cs",
+              "RelativeToolTip": "application\\Reviews\\Commands\\Create\\CreateReviewHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:34:12.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "reviewservice\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "reviewservice\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:18:26.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetReviewByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\Get\\GetReviewByIdHandler.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Queries\\Get\\GetReviewByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\Get\\GetReviewByIdHandler.cs",
+              "RelativeToolTip": "application\\Reviews\\Queries\\Get\\GetReviewByIdHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:10:51.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "RelativeToolTip": "infrastructure\\Persistence\\Configurations\\ReviewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:15:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetReviewByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\Get\\GetReviewByIdQuery.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Queries\\Get\\GetReviewByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\Get\\GetReviewByIdQuery.cs",
+              "RelativeToolTip": "application\\Reviews\\Queries\\Get\\GetReviewByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:54:13.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\domain\\Entities\\Review.cs",
+              "RelativeToolTip": "domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:09:06.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllReviewsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\List\\GetAllReviewsHandler.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Queries\\List\\GetAllReviewsHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\List\\GetAllReviewsHandler.cs",
+              "RelativeToolTip": "application\\Reviews\\Queries\\List\\GetAllReviewsHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:09:59.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllReviewsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\List\\GetAllReviewsQuery.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Queries\\List\\GetAllReviewsQuery.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Queries\\List\\GetAllReviewsQuery.cs",
+              "RelativeToolTip": "application\\Reviews\\Queries\\List\\GetAllReviewsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:54:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\DTOs\\Validators\\ReviewDtoValidator.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\DTOs\\Validators\\ReviewDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\DTOs\\Validators\\ReviewDtoValidator.cs",
+              "RelativeToolTip": "application\\Reviews\\DTOs\\Validators\\ReviewDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:34:14.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\DTOs\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\DTOs\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\DTOs\\ReviewDto.cs",
+              "RelativeToolTip": "application\\Reviews\\DTOs\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:34:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteReviewCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Delete\\DeleteReviewCommand.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Commands\\Delete\\DeleteReviewCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Delete\\DeleteReviewCommand.cs",
+              "RelativeToolTip": "application\\Reviews\\Commands\\Delete\\DeleteReviewCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:37:08.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteReviewHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Delete\\DeleteReviewHandler.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Commands\\Delete\\DeleteReviewHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Delete\\DeleteReviewHandler.cs",
+              "RelativeToolTip": "application\\Reviews\\Commands\\Delete\\DeleteReviewHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:37:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateReviewHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Update\\UpdateReviewHandler.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Commands\\Update\\UpdateReviewHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Update\\UpdateReviewHandler.cs",
+              "RelativeToolTip": "application\\Reviews\\Commands\\Update\\UpdateReviewHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:38:28.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateReviewCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Update\\UpdateReviewCommand.cs",
+              "RelativeDocumentMoniker": "application\\Reviews\\Commands\\Update\\UpdateReviewCommand.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\Reviews\\Commands\\Update\\UpdateReviewCommand.cs",
+              "RelativeToolTip": "application\\Reviews\\Commands\\Update\\UpdateReviewCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:38:18.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\appsettings.json",
+              "RelativeDocumentMoniker": "reviewservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\appsettings.json",
+              "RelativeToolTip": "reviewservice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T12:40:08.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "application\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\application\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "application\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:22:11.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DogmateMarketplaceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\domain\\DogmateMarketplaceContext.cs",
+              "RelativeDocumentMoniker": "domain\\DogmateMarketplaceContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\domain\\DogmateMarketplaceContext.cs",
+              "RelativeToolTip": "domain\\DogmateMarketplaceContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:10:01.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\infrastructure\\infrastructure.csproj",
+              "RelativeDocumentMoniker": "infrastructure\\infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\infrastructure\\infrastructure.csproj",
+              "RelativeToolTip": "infrastructure\\infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T17:03:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReviewSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\infrastructure\\Persistence\\Seeding\\ReviewSeeder.cs",
+              "RelativeDocumentMoniker": "infrastructure\\Persistence\\Seeding\\ReviewSeeder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\infrastructure\\Persistence\\Seeding\\ReviewSeeder.cs",
+              "RelativeToolTip": "infrastructure\\Persistence\\Seeding\\ReviewSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:25:59.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "reviewservice.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\reviewservice.http",
+              "RelativeDocumentMoniker": "reviewservice\\reviewservice.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\reviewservice\\reviewservice\\reviewservice.http",
+              "RelativeToolTip": "reviewservice\\reviewservice.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-28T15:21:22.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
